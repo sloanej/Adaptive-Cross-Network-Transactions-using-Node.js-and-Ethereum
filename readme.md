@@ -1,5 +1,11 @@
 # Adaptive Cross Network Transactions using Node.js and Ethereum
 
+## Project Report
+Adaptive Cross Network Transactions using Node.js and Ethereum is a research project by Jack Sloane, Neha Surana, and Ishaan Gulati for a graduate level Blockchain Technologies course at Virginia Tech.
+
+A comprihensive discription of our project can be found in the "Project_Report" pdf.
+ 
+
 ## Set Up:
 1. Install Geth on your system, using this [link](https://geth.ethereum.org/docs/install-and-build/installing-geth).
 2. Install Node.js based on your platform using the [link](https://nodejs.org/en/download/).
